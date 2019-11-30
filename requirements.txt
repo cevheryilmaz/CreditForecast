@@ -1,4 +1,8 @@
-flask
+Flask
+numpy
 pandas
 pickle
 requests
+request
+jsonify
+render_template

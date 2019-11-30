@@ -1,8 +1,5 @@
-Flask
-numpy
-pandas
-pickle
-requests
-request
-jsonify
-render_template
+flask==1.1.1
+numpy==1.16.5
+pandas==0.25.1
+requests==2.22.0
+pickle==4.0
